@@ -63,7 +63,7 @@ myshell/
 
     echo does not interpret escape sequences like \n
 
-🛠️ How It Works (Brief)
+🛠️ How It Works 
 
     Prompt & Input – The shell displays the current directory and reads a line.
 
